@@ -1,0 +1,16 @@
+[
+    {
+        "chunk_index": 1,
+        "error": "Error querying Gemini: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 5."
+    },
+    {
+        "type": "INTRODUCTION",
+        "name": "INTRODUCTION",
+        "content": "½ tsp cinnamon 50g red lentils, rinsed 250ml homemade stock (see here) or water Melt the coconut oil in a medium saucepan over a medium heat. Add the sweet potato, onion and cinnamon and fry for 2–3 minutes until the onion is soft and translucent. Add the remaining ingredients and simmer until the lentils have absorbed most of the liquid and the sweet potato is soft – this should take around 8–10 minutes. Leave as it is or blend/mash for a smoother consistency. Keeps for 2–3 days in the fridge."
+    },
+    {
+        "type": "CHAPTER 1",
+        "name": "10–12 MONTHS",
+        "content": "At 12 months mealtimes were really fun. Indie became more adventurous and started trying to feed herself more often. She enjoyed a really wide variety of foods. It’s great to think about what we want to eat and adapt a meal for Indie off the back of that. At this age it’s fine to give most foods. It’s important to still be mindful that sugar and salt aren’t ideal in children’s diets and we should still try to keep them to a minimum. You also may still need to be careful with certain foods such as whole nuts, whole grapes too – these are still a choking hazard for young children. By this stage, hopefully your baby will be eating a really wide variety of foods similar to that of adults and in similar textures but just smaller portions. If your little one is still having breast milk you can carry on offering this as long as you and baby want to continue. At 12 months, if you’re formula feeding you can switch to full-fat cow’s milk as your baby’s main drink from now on. Offering this in an open cup is best for your baby’s teeth, and around 400ml of milk is recommended. Once your baby gets to 12 months of age, you might also want to start offering nutrient-rich snacks in between meals. It’s important to try and choose snacks that are balanced, and much smaller than an actual meal so that your baby doesn’t fill up on these and refuse the food you offer at mealtimes."
+    }
+]
